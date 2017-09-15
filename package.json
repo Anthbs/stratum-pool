@@ -12,9 +12,9 @@
     "litecoin",
     "scrypt"
   ],
-  "homepage": "https://github.com/zone117x/node-stratum-pool",
+  "homepage": "https://github.com/Anthbs/stratum-pool",
   "bugs": {
-    "url": "https://github.com/zone117x/node-stratum-pool/issues"
+    "url": "https://github.com/Anthbs/stratum-pool/issues"
   },
   "license": "GPL-2.0",
   "author": {
@@ -31,10 +31,10 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zone117x/node-stratum-pool.git"
+    "url": "git+https://github.com/Anthbs/stratum-pool.git"
   },
   "dependencies": {
-    "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
+    "multi-hashing": "git://github.com/Anthbs/multi-hashing.git",
     "bignum": "*",
     "base58-native": "*",
     "async": "*"
@@ -47,6 +47,6 @@
   "readmeFilename": "README.md",
   "_id": "stratum-pool@0.1.9",
   "_shasum": "c10061feb39ab6b6db0ab9ceb97613bebe05f551",
-  "_from": "git://github.com/zone117x/node-stratum-pool.git",
-  "_resolved": "git://github.com/zone117x/node-stratum-pool.git#f2c90d45822562aaa9e418c9069a70aaa2b88005"
+  "_from": "git://github.com/Anthbs/stratum-pool.git",
+  "_resolved": "git://github.com/Anthbs/stratum-pool.git#f2c90d45822562aaa9e418c9069a70aaa2b88005"
 }
